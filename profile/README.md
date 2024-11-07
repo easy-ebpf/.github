@@ -2,6 +2,7 @@
 
 - 設定環境(VirtualBox):
   - VirtualBox & VM映像檔下載: https://drive.google.com/drive/folders/1LbSv4U3Q2M-KiFXZMa5NezVZr4TO6bP2?usp=sharing
+  - 因vm.ova檔案較大，可由系計中NAS提供的下載地址下載: https://140.114.87.135:5001/sharing/rqdmFdzi1
   - User密碼: `0000`
   - 映像檔匯入VirtualBox教學  
   ![image](https://github.com/user-attachments/assets/5bed1f9a-7d38-4890-855e-1d3792c8d68e)
