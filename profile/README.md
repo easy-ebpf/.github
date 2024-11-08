@@ -1,6 +1,7 @@
 ## Virtualization eBPF LAB 🙌
 
 - 設定環境(VirtualBox):
+  - 指示簡報: https://docs.google.com/presentation/d/1Iu-pRwZANLUvoj3lMu9dzc53OlfTrSpyhN85Zrek7Cw/edit?usp=sharing 
   - VirtualBox & VM映像檔下載: https://drive.google.com/drive/folders/1LbSv4U3Q2M-KiFXZMa5NezVZr4TO6bP2?usp=sharing
   - 因vm.ova檔案較大，可由系計中NAS提供的下載地址下載: https://140.114.87.135:5001/sharing/rqdmFdzi1
   - User密碼: `0000`
