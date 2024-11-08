@@ -7,7 +7,7 @@
   - User密碼: `0000`
   <details>
   <summary>
-  映像檔匯入VirtualBox教學
+  映像檔匯入VirtualBox教學(點我展開)
   </summary>
         
     ![image](https://github.com/user-attachments/assets/5bed1f9a-7d38-4890-855e-1d3792c8d68e)
